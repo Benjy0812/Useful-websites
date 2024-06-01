@@ -46,3 +46,9 @@ body {
   font-weight: bold;
   font-family: "IBM Plex Serif", serif;
 }
+
+.github {
+  position: fixed;
+  bottom: 15px;
+  left: 15px;
+}
